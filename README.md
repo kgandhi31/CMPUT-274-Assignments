@@ -1,2 +1,2 @@
 # CMPUT-274-Assignments
-The python assignments that I completed during my CMPUT 274 course.
+My Python solutions to morning problems, weekly assignments, and major assignments offered in this course.
